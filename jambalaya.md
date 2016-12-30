@@ -41,8 +41,8 @@
 - serve with some chopped green onion tops.  also good is a side of white beans or field peas.
 
 # Notes, from several different tries
- - Estimates are it feeds about 12 people?
- - Two big boxes of stock worked well this time, with a couple pitchers of water to round it out
- -Boiled something like 2 hours and change, after the boil and before the rice went in
- - Skimmed most of the oil, worked fine
- - put in 6 dry cups of rice this last time.  Looked ok.
+- Estimates are it feeds about 12 people?
+- Two big boxes of stock worked well this time, with a couple pitchers of water to round it out
+- Boiled something like 2 hours and change, after the boil and before the rice went in
+- Skimmed most of the oil, worked fine
+- put in 6 dry cups of rice this last time.  Looked ok.

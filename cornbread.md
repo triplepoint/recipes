@@ -2,7 +2,7 @@
 
 Cornbread No Chaser
 from Alton Brown's I'm Just Here for More Food
-(Reprinted)[http://ediblegivens.blogspot.com/2010/11/alton-browns-cornbread-no-chaser.html]
+[Reprinted](http://ediblegivens.blogspot.com/2010/11/alton-browns-cornbread-no-chaser.html)
 
 1 1/2 cups or 7 1/4 oz. cornmeal, preferably stone ground
 1 1/4 cups or 10 oz milk

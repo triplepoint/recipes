@@ -1,6 +1,6 @@
 # George's Jambalaya Recipe
 
-# Ingredients
+## Ingredients
 - 2 lbs andouille (or just smoked sausage), halved and sliced (half moons)
 - 2 lbs pork shoulder, cut into 1" 'cubes'
 - 2 lbs boneless/skinless chicken thighs, cut into 1" 'cubes'
@@ -26,7 +26,7 @@
 
 - 1 bunch green onion tops, chopped
 
-# Procedure
+## Procedure
 - In a cast iron dutch oven, brown sausage.  when brown, remove to a bowl
 - Brown pork.   when brown, remove to the meat bowl
 - brown chicken (including optional thighs).  when brown, remove to meat bowl
@@ -40,7 +40,7 @@
 - open the pot back up and taste.  should be good to go.  At thins point it's probably worth picking out the chicken bones and bay leaves.
 - serve with some chopped green onion tops.  also good is a side of white beans or field peas.
 
-# Notes, from several different tries
+## Notes, from several different tries
 - Estimates are it feeds about 12 people?
 - Two big boxes of stock worked well this time, with a couple pitchers of water to round it out
 - Boiled something like 2 hours and change, after the boil and before the rice went in

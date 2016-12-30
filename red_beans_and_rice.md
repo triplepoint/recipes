@@ -1,6 +1,4 @@
 # George's Red Beans and Rice Recipe
-
-# Red Beans and Rice
 ## Ingredients
 - 1 lb red beans (the bag of dried beans)
 - vegetable oil
@@ -25,7 +23,7 @@
 
 - 1 bunch green onions tops, chopped
 
-# Procedure
+## Procedure
 - Wash beans and soak 2-3 hours in just enough water to cover.  Drain water.  The longer you soak, the less time you need to simmer the beans.  I cook for a long time, so a 2-3 hour soak is plenty.
 - Sweat onions, celery, bell pepper, and green onion bottoms in a small amount of oil.
 - When onions are clear, add the beans, meat, garlic, and seasonings.
@@ -33,5 +31,5 @@
 - Once boiling, reduce heat and simmer for 2-3 hours, stirring occasionally.  Add spices to taste.  Keep the liquid level up.
 - Serve over hot rice, with onion tops.  Good with cornbread.
 
-# Notes
+## Notes
 (4-6 servings or so.  i usually double the recipe and freeze some)

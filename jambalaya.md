@@ -1,30 +1,30 @@
 # George's Jambalaya Recipe
 
 ## Ingredients
-- 2 lbs andouille (or just smoked sausage), halved and sliced (half moons)
-- 2 lbs pork shoulder, cut into 1" 'cubes'
-- 2 lbs boneless/skinless chicken thighs, cut into 1" 'cubes'
-- 4-5 bone-in skin-on chicken thighs
+- [ ] 2 lbs andouille (or just smoked sausage), halved and sliced (half moons)
+- [ ] 2 lbs pork shoulder, cut into 1" 'cubes'
+- [ ] 2 lbs boneless/skinless chicken thighs, cut into 1" 'cubes'
+- [ ] 4-5 bone-in skin-on chicken thighs
 
-- Vegetable Oil
-- 5-6 Yellow Onions, chopped
-- 3-4 Bell peppers, chopped
-- 5 Stalks celery, chopped
-- 1 bunch green onion bottoms (white part), chopped
-- 2 tsp salt
+- [ ] Vegetable Oil
+- [ ] 5-6 Yellow Onions, chopped
+- [ ] 3-4 Bell peppers, chopped
+- [ ] 5 Stalks celery, chopped
+- [ ] 1 bunch green onion bottoms (white part), chopped
+- [ ] 2 tsp salt
 
-- 5-6 cloves garlic, minced
+- [ ] 5-6 cloves garlic, minced
 
-- 1 tbsp Black Pepper
-- cayenne pepper, to taste
-- 2 tbsp dried thyme leaves
-- 4-5 bay leaves
-- 1 tbsp Tabasco
-- 2 tbsp Lea and Perrins (worchestershire)
-- 2 cans chicken broth
-- 4 cups extra long grain rice
+- [ ] 1 tbsp Black Pepper
+- [ ] cayenne pepper, to taste
+- [ ] 2 tbsp dried thyme leaves
+- [ ] 4-5 bay leaves
+- [ ] 1 tbsp Tabasco
+- [ ] 2 tbsp Lea and Perrins (worchestershire)
+- [ ] 2 cans chicken broth
+- [ ] 4 cups extra long grain rice
 
-- 1 bunch green onion tops, chopped
+- [ ] 1 bunch green onion tops, chopped
 
 ## Procedure
 - In a cast iron dutch oven, brown sausage.  when brown, remove to a bowl

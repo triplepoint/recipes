@@ -22,7 +22,7 @@
 - 1 tbsp Tabasco
 - 2 tbsp Lea and Perrins (worchestershire)
 - 2 cans chicken broth
-- 4 cups extra long grain rice
+- 6 cups extra long grain rice (dry)
 
 - 1 bunch green onion tops, chopped
 
@@ -37,7 +37,7 @@
 - About 45 mins prior to serving time, add your rice.  This is a REALLY inexact science for me.  Just add an "appropriate" amount of rice.  If you've got a big pot, usually enough rice to keep the liquid level .5-1 inch above the top.  Bring back to a boil.
 - Once boiling, cut heat to as low as you can get it and cover.  let it go for 20 mins or so, remove lid and give a really good stir, scraping the bottom in the process.  You'll know now if you need more rice or more liquid.  Add whats needed, if needed.  If you added rice or liquid, bring back to a boil.
 - If you didn't add anything, or if you did and brought it back to a boil, kill the heat and put the lid back on.  let it sit for 20-30 mins.
-- open the pot back up and taste.  should be good to go.  At thins point it's probably worth picking out the chicken bones and bay leaves.
+- open the pot back up and taste.  should be good to go.  At this point it's probably worth picking out the chicken bones and bay leaves.
 - serve with some chopped green onion tops.  also good is a side of white beans or field peas.
 
 ## Notes, from several different tries

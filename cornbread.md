@@ -4,12 +4,13 @@ from Alton Brown's 'I'm Just Here for More Food'
 [Reprinted at](http://ediblegivens.blogspot.com/2010/11/alton-browns-cornbread-no-chaser.html)
 
 ## Ingredients
+_Note that the measures below give both volume and weight units.  The 'oz' are dry ounces.  Don't get confused._
 - 1 1/2 cups or 7 1/4 oz. cornmeal, preferably stone ground
-- 1 1/4 cups or 10 oz milk
-- 1 cup or 4 3/4 oz. all purpose flour
-- 1 Tb or 1/4 oz. baking powder
-- 1 1/2 tsp. or 1/4 oz. kosher salt (or 1 tsp/ 1/4 oz regular salt)
-- 1/2 c or 3 3/4 oz. vegetable oil
+- 1 1/4 cups or 10 oz     milk
+- 1 cup      or 4 3/4 oz. all purpose flour
+- 1 Tb       or 1/4 oz.   baking powder
+- 1 1/2 tsp. or 1/4 oz.   kosher salt (or 1 tsp/ 1/4 oz regular salt)
+- 1/2 c      or 3 3/4 oz. vegetable oil
 - 2 large eggs
 
 ## Procedure

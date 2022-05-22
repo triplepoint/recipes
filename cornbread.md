@@ -9,7 +9,7 @@ _Note that the measures below give volume in customary units and mass in metric 
 - 1 1/4 cups or 283 g     milk
 - 1 cup      or 135 g     all purpose flour
 - 1 Tb       or 7 g       baking powder
-- 1 1/2 tsp. or 7 g       kosher salt (or 1 tsp/ 1/4 oz regular salt)
+- 1 1/2 tsp. or 7 g       kosher salt (or 1 tsp (7g) regular salt)
 - 1/2 c      or 106 g     vegetable oil
 - 2 large eggs
 

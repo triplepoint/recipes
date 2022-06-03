@@ -46,3 +46,4 @@
 - Boiled something like 2 hours and change, after the boil and before the rice went in
 - Skimmed most of the oil, worked fine
 - put in 6 dry cups of rice this last time.  Looked ok.
+- 2022.06.03 - I'm thinking there's not enough liquid at the end to hydrate the rice completely.  Try 5 cups rice next time.
